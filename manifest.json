@@ -10,7 +10,7 @@
     "size": 123456,
     "jarUrl": "https://raw.githubusercontent.com/modblazex/occultplugins/main/resource-packs.jar",
     "plugins": [
-      "com.your.plugin.ResourcePacksPlugin"
+      "melky.resourcepacks.ResourcePacksPlugin"
     ]
   }
 ]
