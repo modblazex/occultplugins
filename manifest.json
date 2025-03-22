@@ -5,10 +5,10 @@
     "description": "Resource packs for custom interfaces.",
     "author": "Blazex",
     "version": "1.0",
-    "commit": "",
+    "commit": "latest",
+    "hash": "0e28310e913fd1a2f1cf9f8b7e7088e0ef2ccddc28df0c42284eaea6e41a8b2a",  // dummy (this is for an empty file)
     "hasIcon": false,
     "size": 123456,
-    "jarUrl": "https://raw.githubusercontent.com/modblazex/occultplugins/main/resource-packs.jar",
     "plugins": [
       "melky.resourcepacks.ResourcePacksPlugin"
     ]
